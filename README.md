@@ -108,9 +108,9 @@ ML-based system for **early autism screening** using behavioral data.
 **Stack:** `Python` `Scikit-learn` `Flask` `SQLite`
 
 > 📌 *Repositories for these projects are coming soon — actively pushing code!*
-
----
 <!--
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -131,10 +131,10 @@ ML-based system for **early autism screening** using behavioral data.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/pratiksha-phere-408009267" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:pratikshaphere93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
