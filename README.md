@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:pratikshaphere93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 - 🔍 Currently seeking opportunities in **Data Analytics / AI Engineering / Data Engineering / BI**
 - 🌱 Exploring **Generative AI, Agentic AI, LLMs, and LangChain**
 - 🛠️ Passionate about turning messy data into **scalable, business-ready solutions**
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **pratikshaphere93@gmail.com**
 
 ---
 
@@ -110,20 +110,20 @@ ML-based system for **early autism screening** using behavioral data.
 > 📌 *Repositories for these projects are coming soon — actively pushing code!*
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&style=for-the-badge&color=2E9EF7" />
   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&style=for-the-badge&color=2E9EF7" />
 </p>
-
+-->
 ---
 
 ## 📜 Certifications
 
-- ✅ Artificial Intelligence using Python — **Infosys Springboard**
-- ✅ Python Projects Certification — **Infosys Springboard**
+- ✅ Artificial Intelligence using Python — **Infosys**
+- ✅ Python Projects Certification — **Infosys**
 - ✅ Master Data Management — **TCS iON**
 
 ---
